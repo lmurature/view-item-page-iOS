@@ -18,8 +18,8 @@ class ListingsViewModel: Identifiable {
         self.listingSearch = listingSearch
     }
     
-    var results: [ListingResult] {
+    /*var results: [ListingResult] {
         return self.results
-    }
+    }*/
     
 }

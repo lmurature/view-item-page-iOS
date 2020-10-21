@@ -10,12 +10,7 @@ import Foundation
 import SwiftUI
 
 struct CategoryView: View {
-    var img: String
-    var name: String
     var body: some View {
-        VStack {
-            Image(img)
-            Text(name).font(.custom("ProximaNova-Regular", size: 20.0))
-        }
+        Text("Category specific items view")
     }
 }

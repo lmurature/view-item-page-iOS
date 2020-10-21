@@ -9,8 +9,14 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State var siteId: String = ""
+    
     var body: some View {
-        CategoryScroll()
+        if self.siteId == "" {
+            return AnyView(SitePicker(siteId: $siteId))
+        } else {
+            return AnyView(CategoryMain())
+        }
     }
 }
 
