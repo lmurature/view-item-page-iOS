@@ -15,6 +15,43 @@
 		FD891BC5253E2DCC005A819E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD891BC3253E2DCC005A819E /* LaunchScreen.storyboard */; };
 		FD891BD0253E2DCC005A819E /* Mercado_Libre_VIP_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD891BCF253E2DCC005A819E /* Mercado_Libre_VIP_SwiftUITests.swift */; };
 		FD891BDB253E2DCC005A819E /* Mercado_Libre_VIP_SwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD891BDA253E2DCC005A819E /* Mercado_Libre_VIP_SwiftUIUITests.swift */; };
+		FD891BEA253E2EAE005A819E /* Site.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD891BE9253E2EAE005A819E /* Site.swift */; };
+		FD891BEC253E31A1005A819E /* ListingSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD891BEB253E31A1005A819E /* ListingSearch.swift */; };
+		FD891BFB253E3CA3005A819E /* Proxima Nova Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF3253E3CA2005A819E /* Proxima Nova Bold.otf */; };
+		FD891BFC253E3CA3005A819E /* Proxima Nova Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF3253E3CA2005A819E /* Proxima Nova Bold.otf */; };
+		FD891BFD253E3CA3005A819E /* Proxima Nova Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF3253E3CA2005A819E /* Proxima Nova Bold.otf */; };
+		FD891BFE253E3CA3005A819E /* Proxima Nova Alt Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF4253E3CA2005A819E /* Proxima Nova Alt Bold.otf */; };
+		FD891BFF253E3CA3005A819E /* Proxima Nova Alt Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF4253E3CA2005A819E /* Proxima Nova Alt Bold.otf */; };
+		FD891C00253E3CA3005A819E /* Proxima Nova Alt Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF4253E3CA2005A819E /* Proxima Nova Alt Bold.otf */; };
+		FD891C01253E3CA3005A819E /* Proxima Nova Alt Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF5253E3CA2005A819E /* Proxima Nova Alt Light.otf */; };
+		FD891C02253E3CA3005A819E /* Proxima Nova Alt Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF5253E3CA2005A819E /* Proxima Nova Alt Light.otf */; };
+		FD891C03253E3CA3005A819E /* Proxima Nova Alt Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF5253E3CA2005A819E /* Proxima Nova Alt Light.otf */; };
+		FD891C04253E3CA3005A819E /* Proxima Nova Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF6253E3CA2005A819E /* Proxima Nova Black.otf */; };
+		FD891C05253E3CA3005A819E /* Proxima Nova Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF6253E3CA2005A819E /* Proxima Nova Black.otf */; };
+		FD891C06253E3CA3005A819E /* Proxima Nova Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF6253E3CA2005A819E /* Proxima Nova Black.otf */; };
+		FD891C07253E3CA3005A819E /* Proxima Nova Extrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF7253E3CA2005A819E /* Proxima Nova Extrabold.otf */; };
+		FD891C08253E3CA3005A819E /* Proxima Nova Extrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF7253E3CA2005A819E /* Proxima Nova Extrabold.otf */; };
+		FD891C09253E3CA3005A819E /* Proxima Nova Extrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF7253E3CA2005A819E /* Proxima Nova Extrabold.otf */; };
+		FD891C0A253E3CA3005A819E /* Proxima Nova Alt Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF8253E3CA2005A819E /* Proxima Nova Alt Thin.otf */; };
+		FD891C0B253E3CA3005A819E /* Proxima Nova Alt Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF8253E3CA2005A819E /* Proxima Nova Alt Thin.otf */; };
+		FD891C0C253E3CA3005A819E /* Proxima Nova Alt Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF8253E3CA2005A819E /* Proxima Nova Alt Thin.otf */; };
+		FD891C0D253E3CA3005A819E /* Proxima Nova Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF9253E3CA2005A819E /* Proxima Nova Thin.otf */; };
+		FD891C0E253E3CA3005A819E /* Proxima Nova Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF9253E3CA2005A819E /* Proxima Nova Thin.otf */; };
+		FD891C0F253E3CA3005A819E /* Proxima Nova Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BF9253E3CA2005A819E /* Proxima Nova Thin.otf */; };
+		FD891C10253E3CA3005A819E /* ProximaNova-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BFA253E3CA2005A819E /* ProximaNova-Regular.otf */; };
+		FD891C11253E3CA3005A819E /* ProximaNova-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BFA253E3CA2005A819E /* ProximaNova-Regular.otf */; };
+		FD891C12253E3CA3005A819E /* ProximaNova-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD891BFA253E3CA2005A819E /* ProximaNova-Regular.otf */; };
+		FD891C15253E3D63005A819E /* CategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD891C14253E3D63005A819E /* CategoryView.swift */; };
+		FD891C16253E3D63005A819E /* CategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD891C14253E3D63005A819E /* CategoryView.swift */; };
+		FD891C17253E3D63005A819E /* CategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD891C14253E3D63005A819E /* CategoryView.swift */; };
+		FD891C1D253E3F9B005A819E /* CategoryScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD891C1C253E3F9B005A819E /* CategoryScrollView.swift */; };
+		FD891C1E253E3F9B005A819E /* CategoryScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD891C1C253E3F9B005A819E /* CategoryScrollView.swift */; };
+		FD891C1F253E3F9B005A819E /* CategoryScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD891C1C253E3F9B005A819E /* CategoryScrollView.swift */; };
+		FDC22C6C253FD04F00E64B46 /* SiteService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC22C6B253FD04F00E64B46 /* SiteService.swift */; };
+		FDC22C6E253FD19900E64B46 /* ListingSearchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC22C6D253FD19900E64B46 /* ListingSearchService.swift */; };
+		FDC22C71253FD37800E64B46 /* SiteViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC22C70253FD37800E64B46 /* SiteViewModel.swift */; };
+		FDC22C73253FD38900E64B46 /* ListingsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC22C72253FD38900E64B46 /* ListingsViewModel.swift */; };
+		FDC22C75253FD69B00E64B46 /* SiteCategoryListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC22C74253FD69B00E64B46 /* SiteCategoryListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +86,23 @@
 		FD891BD6253E2DCC005A819E /* Mercado Libre VIP SwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mercado Libre VIP SwiftUIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD891BDA253E2DCC005A819E /* Mercado_Libre_VIP_SwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mercado_Libre_VIP_SwiftUIUITests.swift; sourceTree = "<group>"; };
 		FD891BDC253E2DCC005A819E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD891BE9253E2EAE005A819E /* Site.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Site.swift; sourceTree = "<group>"; };
+		FD891BEB253E31A1005A819E /* ListingSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListingSearch.swift; sourceTree = "<group>"; };
+		FD891BF3253E3CA2005A819E /* Proxima Nova Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Proxima Nova Bold.otf"; sourceTree = "<group>"; };
+		FD891BF4253E3CA2005A819E /* Proxima Nova Alt Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Proxima Nova Alt Bold.otf"; sourceTree = "<group>"; };
+		FD891BF5253E3CA2005A819E /* Proxima Nova Alt Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Proxima Nova Alt Light.otf"; sourceTree = "<group>"; };
+		FD891BF6253E3CA2005A819E /* Proxima Nova Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Proxima Nova Black.otf"; sourceTree = "<group>"; };
+		FD891BF7253E3CA2005A819E /* Proxima Nova Extrabold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Proxima Nova Extrabold.otf"; sourceTree = "<group>"; };
+		FD891BF8253E3CA2005A819E /* Proxima Nova Alt Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Proxima Nova Alt Thin.otf"; sourceTree = "<group>"; };
+		FD891BF9253E3CA2005A819E /* Proxima Nova Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Proxima Nova Thin.otf"; sourceTree = "<group>"; };
+		FD891BFA253E3CA2005A819E /* ProximaNova-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ProximaNova-Regular.otf"; sourceTree = "<group>"; };
+		FD891C14253E3D63005A819E /* CategoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryView.swift; sourceTree = "<group>"; };
+		FD891C1C253E3F9B005A819E /* CategoryScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryScrollView.swift; sourceTree = "<group>"; };
+		FDC22C6B253FD04F00E64B46 /* SiteService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SiteService.swift; sourceTree = "<group>"; };
+		FDC22C6D253FD19900E64B46 /* ListingSearchService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListingSearchService.swift; sourceTree = "<group>"; };
+		FDC22C70253FD37800E64B46 /* SiteViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SiteViewModel.swift; sourceTree = "<group>"; };
+		FDC22C72253FD38900E64B46 /* ListingsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListingsViewModel.swift; sourceTree = "<group>"; };
+		FDC22C74253FD69B00E64B46 /* SiteCategoryListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SiteCategoryListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +153,11 @@
 		FD891BB7253E2DC9005A819E /* Mercado Libre VIP SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				FDC22C6F253FD35300E64B46 /* ViewModels */,
+				FDC22C6A253FD03300E64B46 /* Services */,
+				FD891C13253E3D53005A819E /* Views */,
+				FD891BF2253E3C6A005A819E /* Fonts */,
+				FD891BE8253E2E81005A819E /* Models */,
 				FD891BB8253E2DC9005A819E /* AppDelegate.swift */,
 				FD891BBA253E2DC9005A819E /* SceneDelegate.swift */,
 				FD891BBC253E2DC9005A819E /* ContentView.swift */,
@@ -134,6 +193,58 @@
 				FD891BDC253E2DCC005A819E /* Info.plist */,
 			);
 			path = "Mercado Libre VIP SwiftUIUITests";
+			sourceTree = "<group>";
+		};
+		FD891BE8253E2E81005A819E /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				FD891BE9253E2EAE005A819E /* Site.swift */,
+				FD891BEB253E31A1005A819E /* ListingSearch.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		FD891BF2253E3C6A005A819E /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				FD891BF4253E3CA2005A819E /* Proxima Nova Alt Bold.otf */,
+				FD891BF5253E3CA2005A819E /* Proxima Nova Alt Light.otf */,
+				FD891BF8253E3CA2005A819E /* Proxima Nova Alt Thin.otf */,
+				FD891BF6253E3CA2005A819E /* Proxima Nova Black.otf */,
+				FD891BF3253E3CA2005A819E /* Proxima Nova Bold.otf */,
+				FD891BF7253E3CA2005A819E /* Proxima Nova Extrabold.otf */,
+				FD891BF9253E3CA2005A819E /* Proxima Nova Thin.otf */,
+				FD891BFA253E3CA2005A819E /* ProximaNova-Regular.otf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		FD891C13253E3D53005A819E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				FD891C14253E3D63005A819E /* CategoryView.swift */,
+				FD891C1C253E3F9B005A819E /* CategoryScrollView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		FDC22C6A253FD03300E64B46 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				FDC22C6B253FD04F00E64B46 /* SiteService.swift */,
+				FDC22C6D253FD19900E64B46 /* ListingSearchService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		FDC22C6F253FD35300E64B46 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				FDC22C70253FD37800E64B46 /* SiteViewModel.swift */,
+				FDC22C72253FD38900E64B46 /* ListingsViewModel.swift */,
+				FDC22C74253FD69B00E64B46 /* SiteCategoryListViewModel.swift */,
+			);
+			path = ViewModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -241,8 +352,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				FD891BC5253E2DCC005A819E /* LaunchScreen.storyboard in Resources */,
+				FD891BFB253E3CA3005A819E /* Proxima Nova Bold.otf in Resources */,
+				FD891C07253E3CA3005A819E /* Proxima Nova Extrabold.otf in Resources */,
+				FD891C01253E3CA3005A819E /* Proxima Nova Alt Light.otf in Resources */,
 				FD891BC2253E2DCC005A819E /* Preview Assets.xcassets in Resources */,
+				FD891C04253E3CA3005A819E /* Proxima Nova Black.otf in Resources */,
+				FD891C10253E3CA3005A819E /* ProximaNova-Regular.otf in Resources */,
+				FD891C0A253E3CA3005A819E /* Proxima Nova Alt Thin.otf in Resources */,
+				FD891C0D253E3CA3005A819E /* Proxima Nova Thin.otf in Resources */,
 				FD891BBF253E2DCC005A819E /* Assets.xcassets in Resources */,
+				FD891BFE253E3CA3005A819E /* Proxima Nova Alt Bold.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,6 +369,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD891C0B253E3CA3005A819E /* Proxima Nova Alt Thin.otf in Resources */,
+				FD891C11253E3CA3005A819E /* ProximaNova-Regular.otf in Resources */,
+				FD891BFF253E3CA3005A819E /* Proxima Nova Alt Bold.otf in Resources */,
+				FD891C08253E3CA3005A819E /* Proxima Nova Extrabold.otf in Resources */,
+				FD891BFC253E3CA3005A819E /* Proxima Nova Bold.otf in Resources */,
+				FD891C05253E3CA3005A819E /* Proxima Nova Black.otf in Resources */,
+				FD891C02253E3CA3005A819E /* Proxima Nova Alt Light.otf in Resources */,
+				FD891C0E253E3CA3005A819E /* Proxima Nova Thin.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +384,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD891C0C253E3CA3005A819E /* Proxima Nova Alt Thin.otf in Resources */,
+				FD891C12253E3CA3005A819E /* ProximaNova-Regular.otf in Resources */,
+				FD891C00253E3CA3005A819E /* Proxima Nova Alt Bold.otf in Resources */,
+				FD891C09253E3CA3005A819E /* Proxima Nova Extrabold.otf in Resources */,
+				FD891BFD253E3CA3005A819E /* Proxima Nova Bold.otf in Resources */,
+				FD891C06253E3CA3005A819E /* Proxima Nova Black.otf in Resources */,
+				FD891C03253E3CA3005A819E /* Proxima Nova Alt Light.otf in Resources */,
+				FD891C0F253E3CA3005A819E /* Proxima Nova Thin.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,9 +402,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD891BEC253E31A1005A819E /* ListingSearch.swift in Sources */,
 				FD891BB9253E2DC9005A819E /* AppDelegate.swift in Sources */,
+				FDC22C6C253FD04F00E64B46 /* SiteService.swift in Sources */,
+				FD891C15253E3D63005A819E /* CategoryView.swift in Sources */,
+				FDC22C73253FD38900E64B46 /* ListingsViewModel.swift in Sources */,
 				FD891BBB253E2DC9005A819E /* SceneDelegate.swift in Sources */,
+				FD891BEA253E2EAE005A819E /* Site.swift in Sources */,
 				FD891BBD253E2DC9005A819E /* ContentView.swift in Sources */,
+				FD891C1D253E3F9B005A819E /* CategoryScrollView.swift in Sources */,
+				FDC22C75253FD69B00E64B46 /* SiteCategoryListViewModel.swift in Sources */,
+				FDC22C6E253FD19900E64B46 /* ListingSearchService.swift in Sources */,
+				FDC22C71253FD37800E64B46 /* SiteViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,7 +421,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD891C16253E3D63005A819E /* CategoryView.swift in Sources */,
 				FD891BD0253E2DCC005A819E /* Mercado_Libre_VIP_SwiftUITests.swift in Sources */,
+				FD891C1E253E3F9B005A819E /* CategoryScrollView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,7 +431,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD891C17253E3D63005A819E /* CategoryView.swift in Sources */,
 				FD891BDB253E2DCC005A819E /* Mercado_Libre_VIP_SwiftUIUITests.swift in Sources */,
+				FD891C1F253E3F9B005A819E /* CategoryScrollView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
