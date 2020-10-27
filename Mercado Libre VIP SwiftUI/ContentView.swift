@@ -9,13 +9,13 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State var siteId: String = ""
+    @State var siteId: String = "NO_SITE"
     
     var body: some View {
-        if self.siteId == "" {
+        if self.siteId == "NO_SITE" {
             return AnyView(SitePicker(siteId: $siteId))
         } else {
-            return AnyView(CategoryMain())
+            return AnyView(CategoryMain(siteId: $siteId))
         }
     }
 }

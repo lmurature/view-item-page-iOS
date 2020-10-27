@@ -17,6 +17,10 @@ class SiteCategoryListViewModel: ObservableObject {
         fetchCategories(siteId: siteId)
     }
     
+    init() {
+        fetchCategories(siteId: "MLA")
+    }
+    
     var categories = [SiteCategoryViewModel]() {
         willSet {
             objectWillChange.send()
